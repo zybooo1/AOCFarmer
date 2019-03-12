@@ -1,0 +1,17 @@
+[SOURCE]
+1\SOURCEFILE=E:/XXIDEWorkSpace/AOCFarmer/xsp/src/data.lua
+2\SOURCEFILE=E:/XXIDEWorkSpace/AOCFarmer/xsp/src/init.lua
+size=4
+3\SOURCEFILE=E:/XXIDEWorkSpace/AOCFarmer/xsp/src/libs.lua
+4\SOURCEFILE=E:/XXIDEWorkSpace/AOCFarmer/xsp/src/main.lua
+5\SOURCEFILE=E:/XXIDEWorkSpace/AOCFarmer/xsp/src/ttt.lua
+
+[UI]
+1\UIFILE=E:/XXIDEWorkSpace/AOCFarmer/xsp/ui/ui.json
+size=1
+
+[RES]
+size=0
+
+[LIB]
+size=0
